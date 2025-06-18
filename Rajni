@@ -1,0 +1,57 @@
+{
+  "love": "❤️",
+  "fire": "🔥",
+  "music": "🎶",
+  "dance": "💃",
+  "heart": "💖",
+  "girl": "👧",
+  "boy": "👦",
+  "happy": "😊",
+  "sad": "😢",
+  "cool": "😎"
+}
+You can expand this map easily in emojiMap.ts.
+
+💡 Why This Project?
+"Topper se impress karne ke liye chemistry ki kitaab nahi, code likha."
+
+From a nerdy backbencher to a coding chemist — this app was born out of heartbreak, topped with humor, and spiced with science.
+
+🛠️ Setup Instructions
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/chemsong-lyrics-visualizer
+cd chemsong-lyrics-visualizer
+npm install
+npm run dev
+📦 Tech Stack
+React + TypeScript
+
+TailwindCSS
+
+Vite or Next.js
+
+Framer Motion
+
+Custom splitting + symbol logic
+
+✨ Inspiration
+🎵 Inspired by "Eenie Meenie Miney Mo Lova" and real periodic table beauty
+🔬 Adds a twist of chemistry, emoji culture, and science symbolism
+🎥 Meant for Instagram Reels, Shorts, and YouTube lyric videos
+
+🙌 Contribute
+Feel free to fork, improve symbol sets, or add your own visual themes!
+
+📸 Logo & Favicon
+Designed using AI and vector graphics — combining 🎶 + ⚗️ + 💖
+(See public/favicon.ico and assets/logo.svg)
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you want me to generate the actual `.ts` files like `emojiMap.ts`, `physicsMap.ts`, or
